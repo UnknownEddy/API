@@ -1,0 +1,10 @@
+name: SPc
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - pip
+  - simplekml
+  - tables
+prefix: C:\Users\sb17731\.conda\envs\SPc
